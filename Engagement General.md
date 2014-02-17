@@ -18,7 +18,7 @@ This is a work in progress, to which you're welcome to contribute. The intention
 
 
 
-#1 - Preface
+#1. Preface
 
 ##Preamble
 
